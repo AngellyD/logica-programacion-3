@@ -10,10 +10,11 @@ Prueba tu programa con las siguientes entradas para asegurarte que funcione corr
 * Entrada: 
 5
 * Salida:
-120.
+120
+
 * Entrada: 
 6
 * Salida: 
-720.
+720
 
 Pruébalo con los números que se te ocurran.
